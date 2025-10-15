@@ -1,7 +1,10 @@
 # health_ease
 AI-powered doctor finder
 
-## Team Members
+## Team Name
+#Code Crackers
+
+## Team members
 - Suraj M P
 - Srujan R Bhat
 - R Rakhi
